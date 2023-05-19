@@ -13,7 +13,7 @@ import (
 	"github.com/livekit/protocol/logger"
 	"github.com/livekit/protocol/logger/pionlogger"
 	"github.com/pion/ice/v2"
-	"github.com/pion/webrtc/v3"
+	"github.com/whoyao/webrtc/v3"
 )
 
 type WebRTCConfig struct {

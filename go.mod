@@ -1,4 +1,4 @@
-module github.com/livekit/mediatransportutil
+module github.com/whoyao/mediatransportutil
 
 go 1.18
 
@@ -9,9 +9,9 @@ require (
 	github.com/pion/rtcp v1.2.10
 	github.com/pion/rtp v1.7.13
 	github.com/pion/stun v0.4.0
-	github.com/pion/webrtc/v3 v3.2.1
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.8.2
+	github.com/whoyao/webrtc/v3 v3.2.1-dev2
 )
 
 require (
